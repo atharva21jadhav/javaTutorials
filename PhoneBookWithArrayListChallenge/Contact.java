@@ -39,11 +39,11 @@ public class Contact {
         this.contactNumber = contactNumber;
     }
 
-    public String getContactName() {
+    private String getContactName() {
         return contactName;
     }
 
-    public String getContactNumber() {
+    private String getContactNumber() {
         return contactNumber;
     }
 }
